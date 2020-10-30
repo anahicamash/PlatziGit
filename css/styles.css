@@ -1,9 +1,11 @@
 body{
     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
-    background-color: brown;
+    background-color: white;
+    text-align: center;
 }
-title{
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: large;
-    background-color: chartreuse;
+h1{
+    color: darkred;
+    
+    
+    text-align: center;
 }
